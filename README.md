@@ -16,7 +16,8 @@ Each project has:
    - Simple increment/decrement/reset counter
    - **Folder:** `project-01-counter-app`
    - **Components:** `Counter.js`
-   - ![Counter App Screenshot](./assets/counter.png)
+   - !![Counter App Screenshot](assets/counter.png)
+
    - 🔗 [Live Demo](https://your-live-demo-link.com)
 
 2. **Todo List (Functional Component)**
