@@ -136,3 +136,20 @@ Each project has:
     - 🔗 [Live Demo](https://your-live-demo-link.com)
 
 ---
+
+
+💡 How to Use
+
+Clone this repo
+cd project-name
+Run npm install
+Run npm start
+✅ This version has **all 17 projects fully listed** (no shortcuts). 
+
+---
+👨‍💻 Author
+Made by Azam Pasha ✨
+This repo is public — feel free to fork & use for learning.
+
+ 
+
